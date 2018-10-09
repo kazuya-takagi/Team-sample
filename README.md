@@ -40,3 +40,5 @@ This is practice for team development
 イソダーマン
 疲労困憊
 鈴木大苦戦
+
+2018/10/09 6st test.
