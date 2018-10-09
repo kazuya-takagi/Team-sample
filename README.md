@@ -16,3 +16,11 @@ This is practice for team development
 イソダーマン
 疲労困憊
 悪くないかな...
+
+2018/10/09 3st test.
+
+タオル掛け
+眼鏡もかけて
+イソダーマン
+疲労困憊
+更年期でふ
