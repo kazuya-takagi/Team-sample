@@ -24,3 +24,11 @@ This is practice for team development
 イソダーマン
 疲労困憊
 更年期でふ
+
+2018/10/09 4st test.
+
+タオル掛け
+眼鏡もかけて
+イソダーマン
+疲労困憊
+鈴木混乱
