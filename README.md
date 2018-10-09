@@ -15,4 +15,4 @@ This is practice for team development
 眼鏡もかけて
 イソダーマン
 疲労困憊
-悪くないかな
+悪くないかな...
