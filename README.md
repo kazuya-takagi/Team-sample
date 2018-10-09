@@ -32,3 +32,11 @@ This is practice for team development
 イソダーマン
 疲労困憊
 鈴木混乱
+
+2018/10/09 5st test.
+
+タオル掛け
+眼鏡もかけて
+イソダーマン
+疲労困憊
+鈴木大苦戦
